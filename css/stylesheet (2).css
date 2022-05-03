@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Letter Gothic Std';
+    src: url('LetterGothicStd.woff2') format('woff2'),
+        url('LetterGothicStd.woff') format('woff'),
+        url('LetterGothicStd.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Letter Gothic Std';
+    src: url('LetterGothicStd-Slanted.woff2') format('woff2'),
+        url('LetterGothicStd-Slanted.woff') format('woff'),
+        url('LetterGothicStd-Slanted.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Letter Gothic Std';
+    src: url('LetterGothicStd-BoldSlanted.woff2') format('woff2'),
+        url('LetterGothicStd-BoldSlanted.woff') format('woff'),
+        url('LetterGothicStd-BoldSlanted.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
